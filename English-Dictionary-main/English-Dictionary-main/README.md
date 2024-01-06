@@ -1,2 +1,2 @@
 # English-Dictionary
-making a dictionary for english words using html , css and pure js
+Made a dictionary Website for english words using html , css and js 
